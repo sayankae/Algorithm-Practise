@@ -10,3 +10,4 @@
 - -> Check Prime in O(sqrt(n))
 - -> GCD in O(log(max(a,b)))
 - -> Palindrome Number
+- -> LCM in O(log(max(a,b))
