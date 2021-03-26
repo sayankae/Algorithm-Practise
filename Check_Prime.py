@@ -33,4 +33,4 @@ if __name__ == "__main__":
     else:
         print("Not Prime")
 else:
-    print("Not Prime")
+    print("Error")
