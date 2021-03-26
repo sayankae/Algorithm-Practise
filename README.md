@@ -5,3 +5,4 @@
 - -> Pow(x,y) in O(log(y))
 - -> Check Prime in O(sqrt(n))
 - -> GCD in O(log(max(a,b)))
+- -> Palindrome Number
