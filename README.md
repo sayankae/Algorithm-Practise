@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://assets.stickpng.com/images/58582c01f034562c582205ff.png" width="100" title="hover text">
+  <img src="http://www.pngmart.com/files/13/One-Punch-Man-Saitama-PNG-Free-Download.png" width="100" title="hover text">
 </p>
 # Algorithm-Practise
 # This section is for Algorithm that I know
