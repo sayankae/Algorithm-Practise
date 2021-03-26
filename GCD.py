@@ -2,6 +2,7 @@
 #In this approach we will simply divide the number let say a by b until the bigger number becomes 0
 #The logic behind this approach that we know any gcd between two number will be less than or equal to the smallest one
 #We are keeping the remainder in the smallest position
+#The time complexity of function is O(log(max(a,b))) and Auxilary Space required is log(max(a,b)
 
 #Function takes two argument i.e a = 1st number and b = 2nd number
 def GCD(a,b):
