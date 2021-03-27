@@ -12,3 +12,5 @@
 - -> Palindrome Number
 - -> LCM in O(log(max(a,b))
 - -> Set kth bit(with left shift opertion)
+- -> Check set bit at kth position (By left shift)
+- -> Check set bit at kth position (By right shift)
