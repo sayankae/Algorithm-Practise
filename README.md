@@ -11,3 +11,4 @@
 - -> GCD in O(log(max(a,b)))
 - -> Palindrome Number
 - -> LCM in O(log(max(a,b))
+- -> Set kth bit(with left shift opertion)
