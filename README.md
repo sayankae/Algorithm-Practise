@@ -16,3 +16,4 @@
 - -> Check set bit at kth position (By right shift)
 - -> Count set bit (Simple Method)
 - -> Brian Kernighan’s Algorithm
+- -> Count SetBit (Lookup table)
