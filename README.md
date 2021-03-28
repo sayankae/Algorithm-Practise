@@ -17,3 +17,4 @@
 - -> Count set bit (Simple Method)
 - -> Brian Kernighan’s Algorithm
 - -> Count SetBit (Lookup table)
+- -> Power of 2 or not using bitwise operator
