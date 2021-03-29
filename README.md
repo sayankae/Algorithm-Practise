@@ -19,3 +19,4 @@
 - -> Count SetBit (Lookup table)
 - -> Power of 2 or not using bitwise operator
 - -> Odd Occurence in an array
+- -> Two numbers having odd occurrences in an array
