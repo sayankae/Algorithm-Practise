@@ -21,3 +21,4 @@
 - -> Odd Occurence in an array
 - -> Two numbers having odd occurrences in an array
 - -> Generate power set using bitwise operators
+- -> Russian Multiplication
