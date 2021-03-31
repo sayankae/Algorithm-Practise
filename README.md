@@ -23,3 +23,4 @@
 - -> Generate power set using bitwise operators
 - -> Russian Multiplication
 - -> Fibonacci Recursive Approach
+- -> Factorial Recursive Approach
