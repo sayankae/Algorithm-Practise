@@ -25,3 +25,4 @@
 - -> Fibonacci Recursive Approach
 - -> Factorial Recursive Approach
 - -> Tower of Hanoi
+- -> Check Palindrome
