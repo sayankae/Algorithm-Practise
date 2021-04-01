@@ -26,3 +26,4 @@
 - -> Factorial Recursive Approach
 - -> Tower of Hanoi
 - -> Check Palindrome
+- -> Rod cutting (Iterative Approach)
