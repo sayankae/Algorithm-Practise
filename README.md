@@ -27,4 +27,5 @@
 - -> Tower of Hanoi
 - -> Check Palindrome
 - -> Rod cutting (Iterative Approach)
-- -> Josephus Problem Recusive Approach
+- -> Josephus Problem Recursive Approach
+- -> All subset of a set Recursive|Backtracking Approach
