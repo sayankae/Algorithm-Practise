@@ -5,6 +5,7 @@
 #If exist then put the number and check for other empty cell, else remove the number from previous location
 #and try the next number 
 #When the column and row reaches the last index, simply print the sudoku
+#Time Complexity is O(9(n*n)) and Auxiliary Space is O(n*n)
 
 
 import math
