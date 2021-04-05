@@ -31,3 +31,4 @@
 - -> All subset of a set Recursive|Backtracking Approach
 - -> Sudoku 
 - -> Product of given N fractions in reduced form Recusrive Approach
+- -> Check if a large number is divisible by 3 or not
