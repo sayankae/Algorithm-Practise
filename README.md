@@ -32,3 +32,4 @@
 - -> Sudoku 
 - -> Product of given N fractions in reduced form Recusrive Approach
 - -> Check if a large number is divisible by 3 or not
+- -> Power of 3 or not in O(1) 
