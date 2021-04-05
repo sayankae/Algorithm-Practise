@@ -30,3 +30,4 @@
 - -> Josephus Problem Recursive Approach
 - -> All subset of a set Recursive|Backtracking Approach
 - -> Sudoku 
+- -> Product of given N fractions in reduced form Recusrive Approach
