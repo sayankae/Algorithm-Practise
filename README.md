@@ -35,3 +35,7 @@
 - -> Power of 3 or not in O(1) 
 - -> Divisible by 4 or not in O(1)
 - -> Search in a Rotated Array
+- -> Rotate array by 1
+- -> Check if Sorted
+- -> Left rotation of the array by d places
+- -> Leaders in array
