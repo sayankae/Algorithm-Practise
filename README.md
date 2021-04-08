@@ -39,3 +39,5 @@
 - -> Check if Sorted
 - -> Left rotation of the array by d places
 - -> Leaders in array
+- -> Sum of two number stored in array
+- -> Binary search in Bitonic array
