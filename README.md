@@ -33,6 +33,8 @@
 - -> Product of given N fractions in reduced form Recusrive Approach
 - -> Check if a large number is divisible by 3 or not
 - -> Power of 3 or not in O(1) 
+- -> Trapping Rainwater in O(n) Auxilary Space
+- -> Stock buy and sell in O(1) Auxilary Space
 - -> Divisible by 4 or not in O(1)
 - -> Search in a Rotated Array
 - -> Rotate array by 1
