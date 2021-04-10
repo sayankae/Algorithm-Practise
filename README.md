@@ -43,3 +43,5 @@
 - -> Leaders in array
 - -> Sum of two number stored in array
 - -> Binary search in Bitonic array
+- -> Maximum Consecutive 1s
+- -> Maximum Subarray Sum
