@@ -45,3 +45,5 @@
 - -> Binary search in Bitonic array
 - -> Maximum Consecutive 1s
 - -> Maximum Subarray Sum
+- -> Longest Even Odd Subarray 
+- -> Maximum Circular Sum Subarray
