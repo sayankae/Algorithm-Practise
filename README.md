@@ -48,3 +48,4 @@
 - -> Maximum Subarray Sum
 - -> Longest Even Odd Subarray 
 - -> Maximum Circular Sum Subarray
+- -> Majority Element Moores Voting
