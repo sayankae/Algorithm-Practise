@@ -49,3 +49,4 @@
 - -> Longest Even Odd Subarray 
 - -> Maximum Circular Sum Subarray
 - -> Majority Element Moores Voting
+- -> Binary Search Iterative Apprroach
