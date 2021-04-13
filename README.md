@@ -50,3 +50,4 @@
 - -> Maximum Circular Sum Subarray
 - -> Majority Element Moores Voting
 - -> Binary Search Iterative Apprroach
+- -> Find a triplet that sum to a given value 
