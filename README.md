@@ -33,6 +33,7 @@
 - -> Product of given N fractions in reduced form Recusrive Approach
 - -> Check if a large number is divisible by 3 or not
 - -> Power of 3 or not in O(1) 
+- -> Insertion Sort (Iterative Approach)
 - -> Majority Element
 - -> Trapping Rainwater in O(n) Auxilary Space
 - -> Stock buy and sell in O(1) Auxilary Space
